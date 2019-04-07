@@ -1,0 +1,5 @@
+controller\AppInitializer.class
+controller\HelloController.class
+controller\SecurityConfig.class
+controller\LoginController.class
+controller\SpringSecurityInitializer.class
